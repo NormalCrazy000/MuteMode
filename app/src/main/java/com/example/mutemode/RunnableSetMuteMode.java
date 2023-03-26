@@ -25,7 +25,7 @@ public class RunnableSetMuteMode  implements Runnable {
 
             try {
                 while (true){
-                    System.out.println(Calendar.getInstance(Locale.ITALY).getTime().getDay());
+                    //System.out.println(Calendar.getInstance(Locale.ITALY).getTime().getDay());
                     int day = Calendar.getInstance(Locale.ITALY).getTime().getDay();
                     int hour = Calendar.getInstance(Locale.ITALY).getTime().getHours();
                     int minute = Calendar.getInstance(Locale.ITALY).getTime().getMinutes();

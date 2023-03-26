@@ -33,7 +33,7 @@ public class ServiceMute extends Service {
 
         Notification notification = new NotificationCompat.Builder(this, CHANNEL_ID)
                 .setContentTitle("Mute Mode")
-                .setContentText("test")
+                .setContentText("---------------------")
                 .setSmallIcon(R.drawable.ic_stat_name)
                 .setContentIntent(pendingIntent)
                 .build();
