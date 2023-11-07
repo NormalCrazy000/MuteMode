@@ -1,5 +1,9 @@
 # MuteMode
-Setup:
-  - On smartphone set mode DO NOT DISTURB
-Site:
-  -https://stackoverflow.com/questions/10961714/how-to-properly-stop-the-thread-in-java
+
+This is a project to create app that set, in a specific time, a silent mode.
+## Installation
+
+Set mode DO NOT DISTURB on device
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
